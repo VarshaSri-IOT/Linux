@@ -1,0 +1,24 @@
+# 🐧 Linux Basics
+
+## Overview
+
+Linux is an open-source operating system widely used in servers, software development, networking, and embedded systems.
+
+I am learning Linux practically using **Ubuntu on WSL** and the Linux terminal.
+
+---
+
+## 📌 Basic Linux Commands
+
+| Command | Purpose |
+|---|---|
+| `pwd` | Shows the Present Working Directory |
+| `ls` | Lists files and directories |
+| `mkdir` | Creates a new directory |
+| `cd` | Changes the current directory |
+| `man` | Opens the manual/documentation of a command |
+| `date` | Displays the current date and time |
+| `whoami` | Displays the current logged-in username |
+| `echo` | Displays text in the terminal |
+| `history` | Shows previously executed commands |
+| `clear` | Clears the terminal screen |
