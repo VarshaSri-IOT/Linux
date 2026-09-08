@@ -1,5 +1,6 @@
 LINUX BASICS
 
+
 1. pwd
    Shows the current working directory.
 
@@ -11,3 +12,23 @@ LINUX BASICS
 
 4. cd
    Changes the current directory.
+5. man
+   opens the manual page for a command
+
+6. Paths
+   .  = current directory
+   .. = parent directory
+   ~  = home directory
+   /  = root directory
+
+7. date
+   Displays the current date and time
+
+8. whoami
+   Displays the current logged-in username.
+
+9. echo
+   Displays text on the terminal.
+
+10. history
+    Displays previously used commands
